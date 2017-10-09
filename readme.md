@@ -4,6 +4,7 @@ A simple, accessible HTML5 media player.
 [Checkout the demo](http://plyr.io)
 
 [![Image of Plyr](https://cdn.plyr.io/static/plyr.png?1)](http://plyr.io)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fplyr.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fplyr?ref=badge_shield)
 
 ## Why?
 We wanted a lightweight, accessible and customisable media player that just supports *modern* browsers. Sure, there are many other players out there but we wanted to keep things simple, using the right elements for the job. 
@@ -411,3 +412,5 @@ Also these links helped created Plyr:
 
 ## Copyright and License
 [The MIT license](license.md).
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fplyr.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fplyr?ref=badge_large)
